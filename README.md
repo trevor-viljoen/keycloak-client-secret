@@ -1,6 +1,6 @@
 # keycloak-client-secret
 This script will pull the existing client_secret for a given Keycloak
-realm or generate a new secret for the same. It was designed to
+client in a given realm or generate a new secret for the same. It was designed to
 work with the Red Hat OpenShift Keycloak Operator, but could be reworked
 to work with any Keycloak deployment. Please open an
 [issue](https://github.com/trevor-viljoen/keycloak-client-secret/issues)
